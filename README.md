@@ -1,10 +1,10 @@
-O Início de Tudo
+#O Início de Tudo
 -----------------
-Bem-vindo ao repositório "O Início de Tudo"! 🎉
+#Bem-vindo ao repositório "O Início de Tudo"! 🎉
 
 ---------------------------------------------------------
 
-Este espaço é dedicado aos meus primeiros projetos em Python, 
+#Este espaço é dedicado aos meus primeiros projetos em Python, 
 todos desenvolvidos com conceitos básicos. 
 Acredito que cada pequeno passo conta e estou animada para compartilhar meu progresso.
 
