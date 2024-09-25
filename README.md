@@ -1,6 +1,6 @@
 #O Início de Tudo
 -----------------
-Bem-vindo ao repositório "O Início de Tudo"! 🎉
+Bem-vindo ao repositório "O Início de Tudo"! 
 
 ---------------------------------------------------------
 
