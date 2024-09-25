@@ -23,5 +23,6 @@ if idade3 > idade1 and idade3 > idade2:
     print(f"{nome3} é o mais usuário mais velho")
 
 
-
-
+#o programa cadastra três usuários e suas idades
+#em seguida faz a comparação entre as idades
+#e imprime o usuário mais velho 
